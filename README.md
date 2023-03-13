@@ -1,1 +1,2 @@
 # SRS-FOR-ONLINE-BANKING-SYSTEM
+Online banking, often known as internet banking, online banking, or home banking, is a type of electronic payment system that allows clients of banks and other financial institutions to carry out a variety of financial transactions via the website of the financial institution. In order to provide consumers with access to banking services in addition to or in substitute of traditional branch banking, the online banking system will normally connect to or be a component of the core banking system run by a bank.
